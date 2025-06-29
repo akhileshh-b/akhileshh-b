@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhileshh-b&show_icons=true&theme=tokyonight&locale=en" alt="akhileshh-b" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshh-b&theme=dark" alt="akhileshh-b" /></p>
+<p><img align="center" src="" alt="akhileshh-b" /></p>
